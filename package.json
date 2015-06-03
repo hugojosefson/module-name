@@ -1,0 +1,27 @@
+{
+  "name": "module-name",
+  "version": "0.0.1",
+  "description": "Figures out the module name from the path of a script file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint && npm run mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugojosefson/module-name.git"
+  },
+  "keywords": [
+    "filename",
+    "basename",
+    "current",
+    "script",
+    "module",
+    "name"
+  ],
+  "author": "Hugo Josefson <hugo@josefson.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugojosefson/module-name/issues"
+  },
+  "homepage": "https://github.com/hugojosefson/module-name#readme"
+}
